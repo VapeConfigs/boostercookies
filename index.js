@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Play.abyssalpvp.eu"];
+const statusMessages = ["Playing Play.Dioxa"];
 
 
 let currentIndex = 0;
